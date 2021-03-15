@@ -31,8 +31,17 @@ table{
     text-align: left;
 }
 thead{
+
     background-color: rgb(72, 147, 209);
     color: white;
+}
+
+th{
+    width: 200px;
+}
+
+.tr_bluebg{
+    background-color: lightskyblue;
 }
 
 h4{
