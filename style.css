@@ -1,1 +1,22 @@
-h1{color: red;}
+header{
+    height: 175px;
+    background-color: dodgerblue;
+    background-image: url("./img/pattern.png");
+}
+#logo{
+    height: 75px;
+    width: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#autore{
+    color: grey;
+}
+#booleaner{
+    color: royalblue;
+}
+
+#data{
+    font-size: 10px;
+}
