@@ -25,3 +25,30 @@ header{
 .description_photo{
     font-size: 12.5px;
 }
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+thead{
+    background-color: rgb(72, 147, 209);
+    color: white;
+}
+
+h4{
+    color: grey;
+}
+
+#monitor{
+    width: 350px;
+    height: 250px;
+    background-image: url("./img/monitor.jpg");
+    background-size: cover;
+}
+#graph{
+    width: 350px;
+    height: 250px;
+    background-image: url("./img/graph.jpg");
+    background-size: cover;
+
+}
